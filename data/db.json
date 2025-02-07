@@ -1,0 +1,204 @@
+{
+  "portfolios": [
+    {
+      "id": 0,
+      "category": "All",
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "img": "",
+      "url": "#",
+      "tags": [
+        "a",
+        "b",
+        "c"
+      ]
+    },
+    {
+      "id": 1,
+      "category": "Fullstack",
+      "title": "Motive",
+      "subtitle": "Architectural Firm",
+      "description": "I’ve designed and developed a modern, visually appealing website for an architectural and interior design company. The site showcases their portfolio, services, and expertise in a clean, easy-to-navigate layout. Using a combination of responsive design and engaging visuals, I’ve made sure the website looks great on all devices, while highlighting the company’s work in architecture and interior design. This project reflects the company’s creativity and professionalism, providing potential clients with a good online experience.",
+      "img": "motive-react-01.png",
+      "url": "https://motiveltd-com.vercel.app",
+      "tags": [
+        "html",
+        "tailwind",
+        "javascript",
+        "react.js",
+        "node.js",
+        "firebase",
+        "json",
+        "frontend"
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Fullstack",
+      "title": "Pinvent",
+      "subtitle": "Inventory Manager",
+      "description": "I’ve built an inventory management web app using the MERN stack (MongoDB, Express, React, Node.js) as a hobby project. The app allows users to easily track and manage their inventory, from adding new items to updating stock levels. It features a user-friendly interface built with React, while the backend is powered by Node.js and Express, and data is stored securely in MongoDB. This project helped me deepen my understanding of full-stack development.",
+      "img": "inventory-mern-01.png",
+      "url": "https://inventory-manager-mern.vercel.app",
+      "tags": [
+        "node.js",
+        "react.js",
+        "mongoDb",
+        "mongoose",
+        "express",
+        "redux",
+        "backend",
+        "frontend",
+        "fullstack"
+      ]
+    },
+    {
+      "id": 3,
+      "category": "React",
+      "title": "Bookkeeper",
+      "subtitle": "Bookkeeping App",
+      "description": "I’ve built a bookkeeping web app using React, Redux and JSON Server as a sample project. The app allows users to track and manage their transactions, with a special feature to filter transactions by date. It also includes an option to generate reports based on transaction data, helping users keep a clear overview of their finances. This project showcases my ability to create practical and user-friendly apps that help solve real-world problems, like managing and organizing financial information.",
+      "img": "bookkeeper-frontend-01.png",
+      "url": "https://bookkeeper-react.vercel.app",
+      "tags": [
+        "redux",
+        "node.js",
+        "jsonServer",
+        "react.js",
+        "jwt",
+        "html",
+        "tailwind",
+        "css"
+      ]
+    },
+    {
+      "id": 4,
+      "category": "React",
+      "title": "Codebook",
+      "subtitle": "E Commerce",
+      "description": "I’ve built a simple e-commerce app as a sample project using React, Redux, and JSON Server. The app allows users to browse products, add them to a shopping cart, and manage their orders. Redux is used for state management, ensuring smooth and consistent updates across the app. JSON Server simulates a real backend, providing mock data for products and orders.",
+      "img": "codebook-frontend-01.png",
+      "url": "https://codebook-react.vercel.app",
+      "tags": [
+        "react.js",
+        "tailwind",
+        "json",
+        "html",
+        "node.js",
+        "frontend",
+        "css",
+        "jwt",
+        "redux"
+      ]
+    },
+    {
+      "id": 5,
+      "category": "React",
+      "title": "Textcounter",
+      "subtitle": "Text Counting App",
+      "description": "I’ve developed a text and ASCII character counting web app using React and JSON Server. The app allows users to input any word, sentence, or paragraph, and it will count every character, including letters, spaces, line breaks, and symbols. This gives users a detailed breakdown of their text, helping them better understand its structure. It’s a simple yet useful tool for anyone who needs to analyze or manage text data more efficiently.",
+      "img": "textcounter-frontend-01.png",
+      "url": "https://textcounter-react.vercel.app",
+      "tags": [
+        "react.js",
+        "jsonServer",
+        "html",
+        "css",
+        "tailwind",
+        "redux",
+        "node.js",
+        "jwt"
+      ]
+    },
+    {
+      "id": 6,
+      "category": "React",
+      "title": "Moviemate",
+      "subtitle": "Movie Listing App",
+      "description": "I’ve created a movie listing web app using React and the TMDB (The Movie Database) API. The app allows users to browse and search for movies, view detailed information, and explore popular and trending films. By integrating the TMDB API, I was able to fetch real-time data on movies, including ratings, release dates, and posters. I used JSON Server to simulate a backend for managing app data.",
+      "img": "moviemate-frontend-01.png",
+      "url": "https://moviemate-react.vercel.app",
+      "tags": [
+        "thirdPartyAPI",
+        "html",
+        "css",
+        "tailwind",
+        "javascript",
+        "react.js",
+        "node.js"
+      ]
+    },
+    {
+      "id": 7,
+      "category": "JavaScript",
+      "title": "Bookmark Manager",
+      "subtitle": "Bookmarking App",
+      "description": "I’ve built a bookmarking web app that allows users to easily save, organize, and access their favorite links. The app uses JavaScript for dynamic functionality, and Firebase Firestore for secure and real-time data storage. Firebase Authentication ensures users can securely log in and manage their bookmarks.",
+      "img": "bookmark-manager-js-01.png",
+      "url": "https://bookmark-manager-js.vercel.app",
+      "tags": [
+        "javaScript",
+        "firebase",
+        "html",
+        "postCss",
+        "tailwind",
+        "googleAuth",
+        "node.js",
+        "webpack"
+      ]
+    },
+    {
+      "id": 8,
+      "category": "JavaScript",
+      "title": "Drag and Drop Todo",
+      "subtitle": "Bookmarking App",
+      "description": "A user-friendly drag-and-drop Todo Manager web app that allows users to easily organize and prioritize tasks. Using JavaScript for functionality and Tailwind CSS with PostCSS for a responsive and modern design, the app offers a smooth, interactive experience. It’s built with Webpack to ensure efficient performance and easy scalability. This app helps users stay organized and productive, making task management simple.",
+      "img": "drag-and-drop-todo-js-01.png",
+      "url": "https://bookmark-manager-js.vercel.app",
+      "tags": [
+        "javaScript",
+        "firebase",
+        "jsonServer",
+        "html",
+        "css",
+        "tailwind",
+        "postCss",
+        "node.js",
+        "googleAuth",
+        "webpack"
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "George Sadik",
+      "designation": "General Manager at Rupayan Housing Estate Ltd.",
+      "testimony": "Nasir did an amazing job on my website. From start to finish, he was dedicated, communicative, and attentive to every detail. The site looks great and runs perfectly. I couldn't be happier with the result!",
+      "img": "george-sadik.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Kalam Azad",
+      "designation": "Manager at Index Laboratories Ltd.",
+      "testimony": "Working with Nasir was a fantastic experience. He truly understands what clients need. He built my website with great attention to detail, and it turned out better than I imagined. Very professional!",
+      "img": "kalam-azad.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Fahim Salehin",
+      "designation": "General Manager, Rangs Properties Ltd.",
+      "testimony": "Great experience working with this Nasir Uddin. He delivered a fantastic website, quickly and efficiently. Very professional and always ready to help with any questions. Highly recommended!",
+      "img": "fahim-salehin.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Nasir Khan",
+      "designation": "Manager at Next Space Ltd",
+      "testimony": "I’m so happy with the website created. The design is sleek, and everything works nicely. Developer was responsive, easy to communicate with, and completed the project on time.",
+      "img": "nasir-khan.jpg"
+    }
+  ]
+
+}
