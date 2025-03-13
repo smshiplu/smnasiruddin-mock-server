@@ -152,10 +152,10 @@
       "id": 8,
       "category": "JavaScript",
       "title": "Drag and Drop Todo",
-      "subtitle": "Bookmarking App",
+      "subtitle": "Task Manager",
       "description": "A user-friendly drag-and-drop Todo Manager web app that allows users to easily organize and prioritize tasks. Using JavaScript for functionality and Tailwind CSS with PostCSS for a responsive and modern design, the app offers a smooth, interactive experience. It’s built with Webpack to ensure efficient performance and easy scalability. This app helps users stay organized and productive, making task management simple.",
       "img": "drag-and-drop-todo-js-01.png",
-      "url": "https://bookmark-manager-js.vercel.app",
+      "url": "https://drag-and-drop-todo-js.vercel.app",
       "tags": [
         "javaScript",
         "firebase",
