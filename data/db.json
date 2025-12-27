@@ -132,6 +132,25 @@
     {
       "id": 7,
       "category": "JavaScript",
+      "title": "Draggable Task Manager (OOP Edition)",
+      "subtitle": "Task Manager App",
+      "description": "I built a Task Manager using Object-Oriented Programming (OOP) in JavaScript. Creating this task manager project was more than just writing code—it was a deep dive into the principles of clean architecture, modular design, and maintainable JavaScript.",
+      "img": "draggable-task-manager-oop-01.png",
+      "url": "https://bookmark-manager-js.vercel.app",
+      "tags": [
+        "javaScript",
+        "OOP approach",
+        "localStorage",
+        "html",
+        "postCss",
+        "tailwind",
+        "node.js",
+        "webpack"
+      ]
+    },
+    {
+      "id": 8,
+      "category": "JavaScript",
       "title": "Bookmark Manager",
       "subtitle": "Bookmarking App",
       "description": "I’ve built a bookmarking web app that allows users to easily save, organize, and access their favorite links. The app uses JavaScript for dynamic functionality, and Firebase Firestore for secure and real-time data storage. Firebase Authentication ensures users can securely log in and manage their bookmarks.",
@@ -149,7 +168,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 9,
       "category": "JavaScript",
       "title": "Drag and Drop Todo",
       "subtitle": "Task Manager",
