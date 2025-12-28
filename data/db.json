@@ -22,6 +22,7 @@
       "description": "I’ve designed and developed a modern, visually appealing website for an architectural and interior design company. The site showcases their portfolio, services, and expertise in a clean, easy-to-navigate layout. Using a combination of responsive design and engaging visuals, I’ve made sure the website looks great on all devices, while highlighting the company’s work in architecture and interior design. This project reflects the company’s creativity and professionalism, providing potential clients with a good online experience.",
       "img": "motive-react-01.png",
       "url": "https://motiveltd-com.vercel.app",
+      "github": "https://github.com/smshiplu/motiveltd.com",
       "tags": [
         "html",
         "tailwind",
@@ -41,6 +42,7 @@
       "description": "I’ve built an inventory management web app using the MERN stack (MongoDB, Express, React, Node.js) as a hobby project. The app allows users to easily track and manage their inventory, from adding new items to updating stock levels. It features a user-friendly interface built with React, while the backend is powered by Node.js and Express, and data is stored securely in MongoDB. This project helped me deepen my understanding of full-stack development.",
       "img": "inventory-mern-01.png",
       "url": "https://inventory-manager-mern.vercel.app",
+      "github":"https://github.com/smshiplu/inventory-manager-frontend-mern",
       "tags": [
         "node.js",
         "react.js",
@@ -61,6 +63,7 @@
       "description": "I’ve built a bookkeeping web app using React, Redux and JSON Server as a sample project. The app allows users to track and manage their transactions, with a special feature to filter transactions by date. It also includes an option to generate reports based on transaction data, helping users keep a clear overview of their finances. This project showcases my ability to create practical and user-friendly apps that help solve real-world problems, like managing and organizing financial information.",
       "img": "bookkeeper-frontend-01.png",
       "url": "https://bookkeeper-react.vercel.app",
+      "github":"https://github.com/smshiplu/bookkeeper-react",
       "tags": [
         "redux",
         "node.js",
@@ -100,6 +103,7 @@
       "description": "I’ve developed a text and ASCII character counting web app using React and JSON Server. The app allows users to input any word, sentence, or paragraph, and it will count every character, including letters, spaces, line breaks, and symbols. This gives users a detailed breakdown of their text, helping them better understand its structure. It’s a simple yet useful tool for anyone who needs to analyze or manage text data more efficiently.",
       "img": "textcounter-frontend-01.png",
       "url": "https://textcounter-react.vercel.app",
+      "github": "https://github.com/smshiplu/textcounter-react",
       "tags": [
         "react.js",
         "jsonServer",
@@ -119,6 +123,7 @@
       "description": "I’ve created a movie listing web app using React and the TMDB (The Movie Database) API. The app allows users to browse and search for movies, view detailed information, and explore popular and trending films. By integrating the TMDB API, I was able to fetch real-time data on movies, including ratings, release dates, and posters. I used JSON Server to simulate a backend for managing app data.",
       "img": "moviemate-frontend-01.png",
       "url": "https://moviemate-react.vercel.app",
+      "github": "https://github.com/smshiplu/moviemate-react",
       "tags": [
         "thirdPartyAPI",
         "html",
@@ -137,6 +142,7 @@
       "description": "I built a Task Manager using Object-Oriented Programming (OOP) in JavaScript. Creating this task manager project was more than just writing code—it was a deep dive into the principles of clean architecture, modular design, and maintainable JavaScript.",
       "img": "draggable-task-manager-oop-01.png",
       "url": "https://bookmark-manager-js.vercel.app",
+      "github":"https://github.com/smshiplu/draggable-task-manager-js-oop",
       "tags": [
         "javaScript",
         "OOP approach",
@@ -156,6 +162,7 @@
       "description": "I’ve built a bookmarking web app that allows users to easily save, organize, and access their favorite links. The app uses JavaScript for dynamic functionality, and Firebase Firestore for secure and real-time data storage. Firebase Authentication ensures users can securely log in and manage their bookmarks.",
       "img": "bookmark-manager-js-01.png",
       "url": "https://bookmark-manager-js.vercel.app",
+      "github": "https://github.com/smshiplu/bookmark-manager-js",
       "tags": [
         "javaScript",
         "firebase",
@@ -175,6 +182,7 @@
       "description": "A user-friendly drag-and-drop Todo Manager web app that allows users to easily organize and prioritize tasks. Using JavaScript for functionality and Tailwind CSS with PostCSS for a responsive and modern design, the app offers a smooth, interactive experience. It’s built with Webpack to ensure efficient performance and easy scalability. This app helps users stay organized and productive, making task management simple.",
       "img": "drag-and-drop-todo-js-01.png",
       "url": "https://drag-and-drop-todo-js.vercel.app",
+      "github": "https://github.com/smshiplu/drag-and-drop-todo-js",
       "tags": [
         "javaScript",
         "firebase",
